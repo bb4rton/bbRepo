@@ -1,0 +1,5 @@
+-- Select rows from a Table or View '' in schema 'SchemaName'
+SELECT * FROM mySchema.myTable
+WHERE 	/* add search conditions here */
+field=1
+GO

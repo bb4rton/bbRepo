@@ -2,4 +2,5 @@
 SELECT * FROM mySchema.myTable
 WHERE 	/* add search conditions here */
 field=1
+and field2=2
 GO
